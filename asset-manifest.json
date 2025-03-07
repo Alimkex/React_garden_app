@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_garden_app/static/css/main.0db64d66.css",
+    "main.js": "/React_garden_app/static/js/main.6bb4f4b2.js",
+    "static/js/453.ad6eb26e.chunk.js": "/React_garden_app/static/js/453.ad6eb26e.chunk.js",
+    "static/media/green.jpg": "/React_garden_app/static/media/green.1228c348a302cb6033f1.jpg",
+    "index.html": "/React_garden_app/index.html",
+    "main.0db64d66.css.map": "/React_garden_app/static/css/main.0db64d66.css.map",
+    "main.6bb4f4b2.js.map": "/React_garden_app/static/js/main.6bb4f4b2.js.map",
+    "453.ad6eb26e.chunk.js.map": "/React_garden_app/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db64d66.css",
+    "static/js/main.6bb4f4b2.js"
+  ]
+}
